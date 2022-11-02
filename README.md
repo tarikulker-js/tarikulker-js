@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi, I'm @tarikulker-js
 
 - 🔭 I’m currently working on Full Stack Development in in BlindLook project.
 - 💬 Ask me about node.js, React and React-Native
